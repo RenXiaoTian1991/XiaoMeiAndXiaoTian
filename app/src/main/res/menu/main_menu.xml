@@ -22,5 +22,5 @@
         android:orderInCategory="111"
         android:icon="@drawable/ic_more_navbar"
         android:title="晓天为小美独家设计"
-        app:showAsAction="never" />
+        app:showAsAction="ifRoom" />
 </menu>
